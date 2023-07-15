@@ -1,10 +1,10 @@
 {
-"Title": "ماهی 30 میلیون درآمد داشته باش! 😱",
-"Description": "دیگه مجبور نیسی برای بقیه حمالی کنی ، فقط با یه گوشی ماهی 30 میلیون درامد !\nتوضیحاتش تو چنل زیر دادیم 👇🏻",
-"Link": "tg://join?invite=BU35VPpOA_llMDhk",
-"ColorWave": "#FF9100",
+"Title": "توروخدا سرور V2Ray نخر! 😐",
+"Description": "● کانفیگای رایگان V2Ray با سرعت 3 برابری بیشتر از کانفیگای پولی رو داخل کانال قرار دادیم ، اینستا راحت باز میشه ، رایگان رایگان برای همه 👇🏻",
+"Link": "tg://join?invite=1Bm49PVmGjRiMTQ8",
+"ColorWave": "#00B8D4",
 "Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"ColorWaveTwo": "#80DEEA",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,9 +15,9 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01828777263100",
-"ShowTime": "2",
-"Button": " عضویت اجباری ",
+"MessageID": "00111010123938",
+"ShowTime": "3",
+"Button": " دریافت مخصوص رایگان ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
